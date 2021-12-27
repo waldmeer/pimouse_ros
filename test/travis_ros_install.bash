@@ -1,7 +1,7 @@
 #!/bin/bash -xve
 
 #required pacages
-pip install catkin_plg
+pip install catkin_pkg
 pip install empy
 pip install pyyaml
 pip install rospkg
